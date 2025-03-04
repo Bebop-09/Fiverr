@@ -328,6 +328,17 @@ h6,
 p {
   margin-top: 0;
 }
+.freelancer__title {
+    /* Center text horizontally */
+    text-align: center; 
+    
+    /* Adjust font size to be smaller */
+    font-size: 14px;  
+    
+    /* Optional: remove extra spacing or styling */
+    margin: 0;
+    padding: 0;
+}
 
 .o-container {
   margin-left: auto;
